@@ -114,9 +114,9 @@ Here is a little bit about me
 
  A little bit about my family 
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- I live with my mom, dad, and my younger sister who is 7 years old 
+- I was born in Boston as my parents lived there for 10 years before we moved to san diego when I was 3.
+- We intially lived in La Jolla, then we moved to 4s ranch for another 10 years, and latley we moved  closer to black mountain.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
