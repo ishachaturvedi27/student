@@ -7,3 +7,7 @@ author: Isha Chaturvedi
 permalink: /tools/experience
 ---
 ## Day 1 
+- making personal accounts for github
+- making personal account for slack
+- organizing usernames and passwords 
+- learning about PII
