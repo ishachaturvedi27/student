@@ -11,6 +11,7 @@ permalink: /tools/experience
 - making personal account for slack
 - organizing usernames and passwords 
 - learning about PII
+![GitHub Login Screenshot](github_login_screenshot.png)
 ## Day 4-5
 - editing index.md 
 - learning about vscode 
@@ -25,4 +26,4 @@ permalink: /tools/experience
 - installing vs code terminal
 - preparing vs code for futture porjects 
 - practice for test/commit/push
-- simple code commands/ formstting 
+- simple code commands/ formatting 
