@@ -41,5 +41,5 @@ Here is a little bit about me
 me and my family picture
 </comment>
 <div class="images">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/family_picture.png" alt="Image 1">
 
