@@ -17,6 +17,7 @@ permalink: /tools/experience
 - learning about vscode 
 - about.md modifying 
 - exploring vscode files 
+<img src="{{site.baseurl}}/images/about/day 3-4.png" alt="Image 2">
 ## Day 6-7
 - OS installation 
 - exploring use of terminal on different platforms 
