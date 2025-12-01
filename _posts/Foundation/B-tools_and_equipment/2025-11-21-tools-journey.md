@@ -11,7 +11,7 @@ permalink: /tools/experience
 - making personal account for slack
 - organizing usernames and passwords 
 - learning about PII
-![GitHub Login Screenshot](github_login_screenshot.png)
+ <img src="{{site.baseurl}}/images/about/github_login_screenshot.png" alt="Image 1">
 ## Day 4-5
 - editing index.md 
 - learning about vscode 
