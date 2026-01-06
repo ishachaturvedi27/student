@@ -7,14 +7,58 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+
+ My favorite places to go
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(7, auto);
+    grid-template-rows: repeat(5, auto);
+    border: 4px dotted pink;
+    padding: 10px;
+    width: fit-content;
+    gap: 5px;
+  }
+
+  .grid > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .grid img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+  }
+</style>
+
+<h2>My favorite places to go</h2>
+
+<div class="grid">
+  <div>
+    <img src="{{site.baseurl}}/images/about/disnleyland.png" alt="My image">
+  </div>
+  <div></div><div></div><div></div><div></div><div></div><div></div>
+  <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+  <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+  <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+  <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+</div>
+
+
+
+
+
+
+
 
 <comment>
 Here is a little bit about where me and my family have previously lived 
 </comment>
 
-## 🇺🇸 I have lived in massachusetts, chelmsford for about three years as I was born there, and my parents ahs lived there for about 10 years.
-## 🇮🇳 my ethnicty is from india, both my parents are from india, as i was born here my culture is hindiusm.
+ 🇺🇸 I have lived in massachusetts, chelmsford for about three years as I was born there, and my parents ahs lived there for about 10 years.
+ 🇮🇳 my ethnicty is from india, both my parents are from india, as i was born here my culture is hindiusm.
 
 ### Journey through Life
 
