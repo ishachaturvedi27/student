@@ -12,24 +12,26 @@ comments: true
 <style>
   .grid {
     display: grid;
-    grid-template-columns: repeat(7, auto);
-    grid-template-rows: repeat(5, auto);
-    border: 4px dotted pink;
-    padding: 10px;
+    grid-template-columns: repeat(7, 250px);
+    grid-auto-rows: auto; /* rows will size based on content */
+    padding: 0;
     width: fit-content;
-    gap: 5px;
+    gap: 0;
   }
 
   .grid > div {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 100%;
+    height: auto; /* shrink to fit images */
   }
 
   .grid img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 50%;       /* side by side */
+    height: auto;     /* maintain aspect ratio */
+    object-fit: cover;
     display: block;
+    border: 3px solid blue;
+    box-sizing: border-box;
   }
 </style>
 
@@ -37,7 +39,8 @@ comments: true
 
 <div class="grid">
   <div>
-    <img src="{{site.baseurl}}/images/about/disnleyland.png" alt="My image">
+    <img src="{{site.baseurl}}/images/about/disnleyland.png" alt="My image"> 
+    <img src="{{site.baseurl}}/images/about/new_york.png" alt="My image 2">
   </div>
   <div></div><div></div><div></div><div></div><div></div><div></div>
   <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
@@ -45,13 +48,6 @@ comments: true
   <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
   <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
 </div>
-
-
-
-
-
-
-
 
 <comment>
 Here is a little bit about where me and my family have previously lived 
