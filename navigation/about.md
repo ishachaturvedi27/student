@@ -40,7 +40,6 @@ comments: true
 <div class="grid">
   <div>
     <img src="{{site.baseurl}}/images/about/disnleyland.png" alt="My image"> 
-    <img src="{{site.baseurl}}/images/about/new_york.png" alt="My image 2">
     <img src="{{site.baseurl}}/images/about/beach.png" alt="My image 3">
     <img src="{{site.baseurl}}/images/about/universal.png" alt="My image 4">
   </div>
